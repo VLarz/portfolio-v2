@@ -15,28 +15,28 @@
   --font-mono: var(--font-geist-mono), ui-monospace, monospace;
 }
 
-/* Light mode */
+/* Light mode — nebula */
 :root {
-  --background: #f8f8fc;
+  --background: #f4f4ff;
   --surface:    #ffffff;
-  --surface-2:  #f0f0f8;
-  --border:     #e2e2ee;
-  --foreground: #0d0d1a;
-  --muted:      #6b6b80;
-  --accent:     #6366f1;
-  --accent-dim: #4f46e5;
-  --accent-glow: #6366f126;
+  --surface-2:  #ebebff;
+  --border:     #d0d0f0;
+  --foreground: #0a0a1e;
+  --muted:      #6060a8;
+  --accent:     #8b5cf6;
+  --accent-dim: #7c3aed;
+  --accent-glow: #8b5cf626;
 }
 
-/* Dark mode — add class="dark" to <html> to activate */
+/* Dark mode — deep space */
 .dark {
-  --background: #0d0d0f;
-  --surface:    #141418;
-  --surface-2:  #1c1c22;
-  --border:     #2a2a33;
-  --foreground: #f0f0f0;
-  --muted:      #8888a0;
-  --accent:     #818cf8;
-  --accent-dim: #6366f1;
-  --accent-glow: #818cf826;
+  --background: #05050f;
+  --surface:    #0c0c20;
+  --surface-2:  #13132e;
+  --border:     #252548;
+  --foreground: #e8e8ff;
+  --muted:      #7070aa;
+  --accent:     #c084fc;
+  --accent-dim: #a855f7;
+  --accent-glow: #c084fc26;
 }
