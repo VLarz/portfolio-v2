@@ -1,0 +1,29 @@
+@theme {
+  /* Colors */
+  --color-background: #0d0d0f;
+  --color-surface:    #141418;
+  --color-surface-2:  #1c1c22;
+  --color-border:     #2a2a33;
+
+  --color-foreground: #f0f0f0;
+  --color-muted:      #8888a0;
+
+  --color-accent:     #22d3ee;
+  --color-accent-dim: #0e7490;
+  --color-accent-glow: #22d3ee26;
+
+  /* Typography */
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
+  --text-base: 1rem;
+  --text-lg:   1.125rem;
+  --text-xl:   1.25rem;
+  --text-2xl:  1.5rem;
+  --text-3xl:  1.875rem;
+  --text-4xl:  2.25rem;
+  --text-5xl:  3rem;
+  --text-6xl:  3.75rem;
+}
